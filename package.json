@@ -1,0 +1,19 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeemb53/node-express.git"
+  },
+  "author": "Nadeem Bhati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeemb53/node-express/issues"
+  },
+  "homepage": "https://github.com/nadeemb53/node-express#readme"
+}
